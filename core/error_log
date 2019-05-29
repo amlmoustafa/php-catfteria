@@ -1,0 +1,42 @@
+[15-Mar-2019 18:29:53 UTC] PHP Notice:  Undefined index: id in /home/xcxr8jujjc09/public_html/wedigitalweb.com/core/addCtegory.php on line 15
+[15-Mar-2019 18:29:53 UTC] PHP Notice:  Undefined index: name in /home/xcxr8jujjc09/public_html/wedigitalweb.com/core/addCtegory.php on line 15
+[15-Mar-2019 18:33:18 UTC] PHP Notice:  Undefined index: id in /home/xcxr8jujjc09/public_html/wedigitalweb.com/core/addCtegory.php on line 15
+[15-Mar-2019 18:33:18 UTC] PHP Notice:  Undefined index: name in /home/xcxr8jujjc09/public_html/wedigitalweb.com/core/addCtegory.php on line 15
+[15-Mar-2019 18:33:21 UTC] PHP Notice:  Undefined index: id in /home/xcxr8jujjc09/public_html/wedigitalweb.com/core/addCtegory.php on line 15
+[15-Mar-2019 18:33:21 UTC] PHP Notice:  Undefined index: name in /home/xcxr8jujjc09/public_html/wedigitalweb.com/core/addCtegory.php on line 15
+[15-Mar-2019 18:33:27 UTC] PHP Notice:  Undefined index: id in /home/xcxr8jujjc09/public_html/wedigitalweb.com/core/addCtegory.php on line 15
+[15-Mar-2019 18:33:27 UTC] PHP Notice:  Undefined index: name in /home/xcxr8jujjc09/public_html/wedigitalweb.com/core/addCtegory.php on line 15
+[15-Mar-2019 18:40:07 UTC] PHP Notice:  Undefined index: id in /home/xcxr8jujjc09/public_html/wedigitalweb.com/core/addCtegory.php on line 15
+[15-Mar-2019 18:40:07 UTC] PHP Notice:  Undefined index: name in /home/xcxr8jujjc09/public_html/wedigitalweb.com/core/addCtegory.php on line 15
+[15-Mar-2019 18:45:20 UTC] PHP Notice:  Array to string conversion in /home/xcxr8jujjc09/public_html/wedigitalweb.com/core/addCtegory.php on line 15
+[15-Mar-2019 18:51:38 UTC] PHP Notice:  Undefined index: id in /home/xcxr8jujjc09/public_html/wedigitalweb.com/core/addCtegory.php on line 15
+[15-Mar-2019 18:51:38 UTC] PHP Notice:  Undefined index: name in /home/xcxr8jujjc09/public_html/wedigitalweb.com/core/addCtegory.php on line 15
+[15-Mar-2019 18:58:30 UTC] PHP Warning:  Illegal string offset 'id' in /home/xcxr8jujjc09/public_html/wedigitalweb.com/core/addCtegory.php on line 15
+[15-Mar-2019 18:58:30 UTC] PHP Warning:  Illegal string offset 'name' in /home/xcxr8jujjc09/public_html/wedigitalweb.com/core/addCtegory.php on line 15
+[15-Mar-2019 19:03:54 UTC] PHP Recoverable fatal error:  Object of class Database could not be converted to string in /home/xcxr8jujjc09/public_html/wedigitalweb.com/core/addCtegory.php on line 13
+[15-Mar-2019 19:04:29 UTC] PHP Recoverable fatal error:  Object of class Database could not be converted to string in /home/xcxr8jujjc09/public_html/wedigitalweb.com/core/addCtegory.php on line 13
+[15-Mar-2019 19:06:10 UTC] PHP Recoverable fatal error:  Object of class Database could not be converted to string in /home/xcxr8jujjc09/public_html/wedigitalweb.com/core/addCtegory.php on line 13
+[15-Mar-2019 19:07:33 UTC] PHP Recoverable fatal error:  Object of class Database could not be converted to string in /home/xcxr8jujjc09/public_html/wedigitalweb.com/core/addCtegory.php on line 13
+[15-Mar-2019 19:08:38 UTC] PHP Recoverable fatal error:  Object of class Database could not be converted to string in /home/xcxr8jujjc09/public_html/wedigitalweb.com/core/addCtegory.php on line 13
+[15-Mar-2019 19:08:57 UTC] PHP Recoverable fatal error:  Object of class Database could not be converted to string in /home/xcxr8jujjc09/public_html/wedigitalweb.com/core/addCtegory.php on line 13
+[15-Mar-2019 19:09:37 UTC] PHP Recoverable fatal error:  Object of class Database could not be converted to string in /home/xcxr8jujjc09/public_html/wedigitalweb.com/core/addCtegory.php on line 13
+[15-Mar-2019 19:10:53 UTC] PHP Recoverable fatal error:  Object of class Database could not be converted to string in /home/xcxr8jujjc09/public_html/wedigitalweb.com/core/addCtegory.php on line 13
+[15-Mar-2019 19:12:58 UTC] PHP Notice:  Undefined index: name in /home/xcxr8jujjc09/public_html/wedigitalweb.com/core/editProductForm.php on line 12
+[15-Mar-2019 19:12:58 UTC] PHP Notice:  Undefined index: price in /home/xcxr8jujjc09/public_html/wedigitalweb.com/core/editProductForm.php on line 12
+[15-Mar-2019 19:12:58 UTC] PHP Notice:  Undefined index: image in /home/xcxr8jujjc09/public_html/wedigitalweb.com/core/editProductForm.php on line 12
+[15-Mar-2019 19:12:58 UTC] PHP Notice:  Undefined index: availability in /home/xcxr8jujjc09/public_html/wedigitalweb.com/core/editProductForm.php on line 12
+[15-Mar-2019 19:12:58 UTC] PHP Notice:  Undefined index: id in /home/xcxr8jujjc09/public_html/wedigitalweb.com/core/editProductForm.php on line 12
+[15-Mar-2019 19:13:27 UTC] PHP Recoverable fatal error:  Object of class Database could not be converted to string in /home/xcxr8jujjc09/public_html/wedigitalweb.com/core/addCtegory.php on line 13
+[15-Mar-2019 19:14:30 UTC] PHP Recoverable fatal error:  Object of class Database could not be converted to string in /home/xcxr8jujjc09/public_html/wedigitalweb.com/core/addCtegory.php on line 13
+[15-Mar-2019 19:15:27 UTC] PHP Recoverable fatal error:  Object of class Database could not be converted to string in /home/xcxr8jujjc09/public_html/wedigitalweb.com/core/addCtegory.php on line 13
+[15-Mar-2019 21:49:49 UTC] PHP Recoverable fatal error:  Object of class Database could not be converted to string in /home/xcxr8jujjc09/public_html/wedigitalweb.com/core/addCtegory.php on line 13
+[15-Mar-2019 21:56:30 UTC] PHP Recoverable fatal error:  Object of class Database could not be converted to string in /home/xcxr8jujjc09/public_html/wedigitalweb.com/core/addCtegory.php on line 13
+[15-Mar-2019 21:58:05 UTC] PHP Recoverable fatal error:  Object of class Database could not be converted to string in /home/xcxr8jujjc09/public_html/wedigitalweb.com/core/addCtegory.php on line 13
+[15-Mar-2019 22:00:54 UTC] PHP Recoverable fatal error:  Object of class Database could not be converted to string in /home/xcxr8jujjc09/public_html/wedigitalweb.com/core/addCtegory.php on line 13
+[15-Mar-2019 22:01:14 UTC] PHP Recoverable fatal error:  Object of class Database could not be converted to string in /home/xcxr8jujjc09/public_html/wedigitalweb.com/core/addCtegory.php on line 13
+[15-Mar-2019 22:04:25 UTC] PHP Recoverable fatal error:  Object of class Database could not be converted to string in /home/xcxr8jujjc09/public_html/wedigitalweb.com/core/addCtegory.php on line 13
+[15-Mar-2019 22:05:44 UTC] PHP Notice:  Use of undefined constant test - assumed 'test' in /home/xcxr8jujjc09/public_html/wedigitalweb.com/core/addCtegory.php on line 9
+[15-Mar-2019 22:07:14 UTC] PHP Notice:  Use of undefined constant test - assumed 'test' in /home/xcxr8jujjc09/public_html/wedigitalweb.com/core/addCtegory.php on line 13
+[15-Mar-2019 22:08:38 UTC] PHP Notice:  Undefined index: id in /home/xcxr8jujjc09/public_html/wedigitalweb.com/core/addCtegory.php on line 15
+[15-Mar-2019 22:08:38 UTC] PHP Notice:  Undefined index: name in /home/xcxr8jujjc09/public_html/wedigitalweb.com/core/addCtegory.php on line 15
+[15-Mar-2019 22:09:35 UTC] PHP Notice:  Array to string conversion in /home/xcxr8jujjc09/public_html/wedigitalweb.com/core/addCtegory.php on line 15
