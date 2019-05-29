@@ -25,7 +25,7 @@
             <?php unset($_SESSION['success']) ?>
         <?php endif; ?>
         
-<div class="myorder-table container mt-5" style="background-color: #808080cf; border-radius: 15px; padding: 25px; height:100vh; max-height: 600px; overflow-y: scroll;">
+<div class="myorder-table container mt-5" style="background-color: #808080cf;padding-bottom: 150px; border-radius: 15px; padding: 25px; height:100vh; max-height: 600px; overflow-y: scroll;">
 <h2>My Orders</h2><br>
 
 <form method="post">
